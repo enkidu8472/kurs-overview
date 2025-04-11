@@ -3,7 +3,7 @@ package config
 // https://eodhd.com/
 // i need it to download on which markets a ISIN is present
 // with free token, i have 20 request per day (500 calls for new token)
-var ApiTokenEodhd = "put your token here"
+var ApiTokenEodhd = "put your token here change"
 
 // to store the info of the EOD meta call
 var EodSearchFileName = "eod_search_info.json"

@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("start-kurs-overview. v1")
+	fmt.Println("start-kurs-overview. v1.1")
 
 	// Serve static files (e.g., HTML, CSS, JS) from the "frontend" directory
 	http.Handle("/", http.FileServer(http.Dir("./views/html")))
