@@ -1,1 +1,2 @@
-internal/config
+# ignore config file with tokens
+internal/config/config.go
