@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ETF/Stock-API</title>
+
+  <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+  <link rel="stylesheet" href="../styles-main.css">
+
+</head>
+
+<body>
+  <button onclick="window.location.href='../index.html';" title="Go back to home view">Back</button>
+  <br><br>
+
+  <div style="padding:2em;">
+    <h3>Download a ISIN to store it in the Backend. If the ISIN exists update the old values</h3>
+
+    <input id="input-isin">
+    <button onclick="getIsinData(this);">Get</button>
+    <div id = "loader"></div>
+  </div>
+
+  <div id="responseInfo">
+
+  </div>
+
+  <script src="download.js"></script>
+  <script src="api-handle-dl.js"></script>
+</body>
+
+
+</html>

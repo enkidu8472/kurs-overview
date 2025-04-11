@@ -1,0 +1,35 @@
+[
+  {
+    "Code": "EEUD",
+    "Exchange": "LSE",
+    "Name": "iShares MSCI Europe ESG Enhanced UCITS ETF EUR Inc GBP",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBP",
+    "ISIN": "IE00BHZPJ676",
+    "previousClose": 561.35,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "EMNU",
+    "Exchange": "XETRA",
+    "Name": "iShares MSCI Europe ESG Enhanced UCITS ETF EUR Inc",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BHZPJ676",
+    "previousClose": 6.758,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "EMNU",
+    "Exchange": "FRK",
+    "Name": "iShares MSCI Europe ESG Enhanced UCITS ETF EUR Inc",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BHZPJ676",
+    "previousClose": 6.758,
+    "previousCloseDate": "2024-12-13"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "VWCE",
+    "Exchange": "XETRA",
+    "Name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BK5BQT80",
+    "previousClose": 127.3,
+    "previousCloseDate": "2025-04-02"
+  },
+  {
+    "Code": "VWRP",
+    "Exchange": "LSE",
+    "Name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBP",
+    "ISIN": "IE00BK5BQT80",
+    "previousClose": 106.56,
+    "previousCloseDate": "2025-04-02"
+  },
+  {
+    "Code": "VWRA",
+    "Exchange": "LSE",
+    "Name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00BK5BQT80",
+    "previousClose": 138.24,
+    "previousCloseDate": "2025-04-02"
+  },
+  {
+    "Code": "VWCE",
+    "Exchange": "F",
+    "Name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BK5BQT80",
+    "previousClose": 127.56,
+    "previousCloseDate": "2025-04-02"
+  },
+  {
+    "Code": "VWCE",
+    "Exchange": "BE",
+    "Name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BK5BQT80",
+    "previousClose": 126.96,
+    "previousCloseDate": "2025-04-02"
+  }
+]

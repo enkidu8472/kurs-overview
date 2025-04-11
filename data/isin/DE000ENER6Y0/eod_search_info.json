@@ -1,0 +1,24 @@
+[
+  {
+    "Code": "ENR",
+    "Exchange": "XETRA",
+    "Name": "Siemens Energy AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE000ENER6Y0",
+    "previousClose": 60.36,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "ENR",
+    "Exchange": "F",
+    "Name": "Siemens Energy AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE000ENER6Y0",
+    "previousClose": 59.88,
+    "previousCloseDate": "2025-01-24"
+  }
+]

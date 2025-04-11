@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "HEI",
+    "Exchange": "XETRA",
+    "Name": "Heidelberg Materials AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE0006047004",
+    "previousClose": 166.65,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "0MG2",
+    "Exchange": "LSE",
+    "Name": "Heidelbergcement AG O.N.",
+    "Type": "Common Stock",
+    "Country": "UK",
+    "Currency": "EUR",
+    "ISIN": "DE0006047004",
+    "previousClose": 166.05,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "HEI",
+    "Exchange": "STU",
+    "Name": "Heidelberg Materials AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE0006047004",
+    "previousClose": 168.3,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "HEI",
+    "Exchange": "F",
+    "Name": "Heidelberg Materials AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE0006047004",
+    "previousClose": 169.4,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "HLBZF",
+    "Exchange": "US",
+    "Name": "HeidelbergCement AG",
+    "Type": "Common Stock",
+    "Country": "USA",
+    "Currency": "USD",
+    "ISIN": "DE0006047004",
+    "previousClose": 184,
+    "previousCloseDate": "2025-03-05"
+  }
+]

@@ -1,0 +1,16 @@
+[ctrl+k]->[ctrl+s]  open Keyboard shortcut editor 
+
+[alt + down/up]     move selected code lines 
+[ctrl+d]            copy line(s)
+[ctrl+shift+d]      delete line(s)
+[ctrl+shift+a]      auto fromat whole document
+[ctrl+shift+c]      toggle line comment
+
+
+[ctrl+alt+f][d]     toggle fold section
+[ctrl+alt+f][d]     toggle fold section
+
+
+[alt+f]             fold all (make all functions and types small)
+[shift+alt+f]       unfold all (show the content of all objects)
+[ctrl+k]->[ctrl+-]  fold all expect curstor selection 

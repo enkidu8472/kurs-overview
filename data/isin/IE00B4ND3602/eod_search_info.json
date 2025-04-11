@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "SGLN",
+    "Exchange": "LSE",
+    "Name": "iShares Physical Gold ETC",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBX",
+    "ISIN": "IE00B4ND3602",
+    "previousClose": 4096,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "IGLN",
+    "Exchange": "LSE",
+    "Name": "iShares Physical Gold ETC",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00B4ND3602",
+    "previousClose": 51.81,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "PPFB",
+    "Exchange": "XETRA",
+    "Name": "iShares Physical Gold ETC EUR",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B4ND3602",
+    "previousClose": 49.264,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "EGLN",
+    "Exchange": "LSE",
+    "Name": "iShares Physical Gold ETC",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "EUR",
+    "ISIN": "IE00B4ND3602",
+    "previousClose": 49.26,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "PPFB",
+    "Exchange": "F",
+    "Name": "iShares Physical Gold ETC",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B4ND3602",
+    "previousClose": 49.026,
+    "previousCloseDate": "2024-12-13"
+  }
+]

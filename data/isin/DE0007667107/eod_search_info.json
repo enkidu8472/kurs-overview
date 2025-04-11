@@ -1,0 +1,35 @@
+[
+  {
+    "Code": "VOS",
+    "Exchange": "XETRA",
+    "Name": "Vossloh AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE0007667107",
+    "previousClose": 56.9,
+    "previousCloseDate": "2025-03-07"
+  },
+  {
+    "Code": "VOS",
+    "Exchange": "STU",
+    "Name": "Vossloh AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE0007667107",
+    "previousClose": 57.8,
+    "previousCloseDate": "2025-03-07"
+  },
+  {
+    "Code": "VOS",
+    "Exchange": "F",
+    "Name": "Vossloh AG",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE0007667107",
+    "previousClose": 56.2,
+    "previousCloseDate": "2025-03-07"
+  }
+]

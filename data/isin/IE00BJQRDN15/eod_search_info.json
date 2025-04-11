@@ -1,0 +1,24 @@
+[
+  {
+    "Code": "IQSA",
+    "Exchange": "LSE",
+    "Name": "Invesco Quantitative Strategies ESG Global Equity Multi-Factor UCITS ETF USD Acc",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00BJQRDN15",
+    "previousClose": 80.915,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "IQSA",
+    "Exchange": "XETRA",
+    "Name": "Invesco Quantitative Strategies ESG Global Equity Multi-Factor UCITS ETF USD Acc",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BJQRDN15",
+    "previousClose": 77.81,
+    "previousCloseDate": "2025-01-31"
+  }
+]

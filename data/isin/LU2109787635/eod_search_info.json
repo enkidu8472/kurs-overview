@@ -1,0 +1,35 @@
+[
+  {
+    "Code": "SRHE",
+    "Exchange": "LSE",
+    "Name": "Amundi Index Solutions - Amundi Index MSCI EMU SRI PAB Ucits ETF DR Cap GBX",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBX",
+    "ISIN": "LU2109787635",
+    "previousClose": 7854,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "SRHE",
+    "Exchange": "XETRA",
+    "Name": "Amundi Index Solutions - Amundi Index MSCI EMU SRI PAB Ucits ETF DR Cap",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU2109787635",
+    "previousClose": 93.84,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "EESG",
+    "Exchange": "PA",
+    "Name": "Amundi Index Solutions - Amundi Index MSCI EMU SRI PAB Ucits ETF DR Cap EUR",
+    "Type": "ETF",
+    "Country": "France",
+    "Currency": "EUR",
+    "ISIN": "LU2109787635",
+    "previousClose": 93.83,
+    "previousCloseDate": "2025-03-05"
+  }
+]

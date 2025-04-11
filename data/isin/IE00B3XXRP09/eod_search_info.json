@@ -1,0 +1,68 @@
+[
+  {
+    "Code": "VUSA",
+    "Exchange": "LSE",
+    "Name": "Vanguard S\u0026P 500 UCITS ETF",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBP",
+    "ISIN": "IE00B3XXRP09",
+    "previousClose": 90.8225,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VUSD",
+    "Exchange": "LSE",
+    "Name": "Vanguard S\u0026P 500 UCITS ETF",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00B3XXRP09",
+    "previousClose": 114.685,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VUSA",
+    "Exchange": "AS",
+    "Name": "Vanguard S\u0026P 500 UCITS ETF",
+    "Type": "ETF",
+    "Country": "Netherlands",
+    "Currency": "EUR",
+    "ISIN": "IE00B3XXRP09",
+    "previousClose": 109.313,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VUSA",
+    "Exchange": "XETRA",
+    "Name": "Vanguard S\u0026P 500 UCITS ETF EUR",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B3XXRP09",
+    "previousClose": 109.27,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VUSA",
+    "Exchange": "SW",
+    "Name": "Vanguard S\u0026P 500 UCITS ETF CHF",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "CHF",
+    "ISIN": "IE00B3XXRP09",
+    "previousClose": 102.34,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VUSA",
+    "Exchange": "F",
+    "Name": "Vanguard Funds Public Limited Company - Vanguard S\u0026P 500 UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B3XXRP09",
+    "previousClose": 109.06,
+    "previousCloseDate": "2024-12-13"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Code": "XDWY",
+    "Exchange": "XETRA",
+    "Name": "Xtrackers MSCI World ESG Screened UCITS ETF 1D",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BCHWNQ94",
+    "previousClose": 24.455,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "XDWY",
+    "Exchange": "LSE",
+    "Name": "Xtrackers MSCI World ESG Screened UCITS ETF 1D",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00BCHWNQ94",
+    "previousClose": 25.385,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "XDWY",
+    "Exchange": "F",
+    "Name": "Xtrackers MSCI World ESG Screened UCITS ETF 1D",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BCHWNQ94",
+    "previousClose": 24.265,
+    "previousCloseDate": "2025-01-31"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Code": "CW8",
+    "Exchange": "PA",
+    "Name": "Amundi Index Solutions - Amundi MSCI World UCITS ETF C EUR",
+    "Type": "ETF",
+    "Country": "France",
+    "Currency": "EUR",
+    "ISIN": "LU1681043599",
+    "previousClose": 578.1915,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "AMEW",
+    "Exchange": "XETRA",
+    "Name": "Amundi Index Solutions - Amundi MSCI World UCITS ETF C EUR",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU1681043599",
+    "previousClose": 578.1,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "AMEW",
+    "Exchange": "F",
+    "Name": "Amundi Index Solutions - Amundi MSCI World",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU1681043599",
+    "previousClose": 579.72,
+    "previousCloseDate": "2024-12-12"
+  },
+  {
+    "Code": "CW8E",
+    "Exchange": "SW",
+    "Name": "Amundi Index Solutions - Amundi MSCI World UCITS ETF C EUR EUR",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "EUR",
+    "ISIN": "LU1681043599",
+    "previousClose": 580.7,
+    "previousCloseDate": "2024-12-13"
+  }
+]

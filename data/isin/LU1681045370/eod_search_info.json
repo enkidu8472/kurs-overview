@@ -1,0 +1,46 @@
+[
+  {
+    "Code": "AEEM",
+    "Exchange": "PA",
+    "Name": "Amundi Index Solutions - Amundi MSCI Emerging Markets UCITS ETF-C EUR",
+    "Type": "ETF",
+    "Country": "France",
+    "Currency": "EUR",
+    "ISIN": "LU1681045370",
+    "previousClose": 5.2193,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "AMEM",
+    "Exchange": "XETRA",
+    "Name": "Amundi MSCI Emerging Markets UCITS",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU1681045370",
+    "previousClose": 5.2206,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "AMEM",
+    "Exchange": "F",
+    "Name": "Amundi Index Solutions - Amundi MSCI Emerging Markets",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU1681045370",
+    "previousClose": 5.2012,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "AEEM",
+    "Exchange": "SW",
+    "Name": "Amundi Index Solutions - Amundi MSCI Emerging Markets UCITS ETF-C EUR EUR",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "EUR",
+    "ISIN": "LU1681045370",
+    "previousClose": 5.202,
+    "previousCloseDate": "2025-01-24"
+  }
+]

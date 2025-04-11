@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ETF/Stock-API</title>
+
+  <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+  <link rel="stylesheet" href="../styles-main.css">
+
+</head>
+
+<body>
+  <button onclick="window.location.href='../index.html';" title="Go back to home view">Back</button>
+  <br><br>
+
+  <div style="padding:2em;">
+
+    <button onclick="executeLTRTaction(this);">Submit</button>
+    <h3>Copy and paste here the complete content of the Transaction page of Trade Republic.</h3>   
+    <textarea id="input-ltrt" rows="40" cols="100"></textarea>
+
+  </div>
+
+  <div id="responseInfo" style="margin:1em">
+
+  </div>
+
+  <script src="logTRT.js"></script>
+  <script src="api-handle-logTRT.js"></script>
+</body>
+
+
+</html>

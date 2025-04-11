@@ -1,0 +1,46 @@
+[
+  {
+    "Code": "EMRD",
+    "Exchange": "LSE",
+    "Name": "SSgA SPDR MSCI Emerging Markets UCITS",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00B469F816",
+    "previousClose": 64.79,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "SPYM",
+    "Exchange": "XETRA",
+    "Name": "SSgA SPDR ETFs Europe I Public Limited Company - SPDR MSCI Emerging Markets UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B469F816",
+    "previousClose": 61.64,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "EMRG",
+    "Exchange": "PA",
+    "Name": "SSgA SPDR MSCI Emerging Markets UCITS",
+    "Type": "ETF",
+    "Country": "France",
+    "Currency": "EUR",
+    "ISIN": "IE00B469F816",
+    "previousClose": 61.619,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "SPYM",
+    "Exchange": "F",
+    "Name": "SSgA SPDR ETFs Europe I Public Limited Company - SPDR MSCI Emerging Markets UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B469F816",
+    "previousClose": 61.474,
+    "previousCloseDate": "2025-01-23"
+  }
+]

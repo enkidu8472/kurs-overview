@@ -1,0 +1,46 @@
+[
+  {
+    "Code": "NDX1",
+    "Exchange": "XETRA",
+    "Name": "Nordex SE",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE000A0D6554",
+    "previousClose": 15.96,
+    "previousCloseDate": "2025-03-07"
+  },
+  {
+    "Code": "0MEC",
+    "Exchange": "LSE",
+    "Name": "Nordex SE O.N.",
+    "Type": "Common Stock",
+    "Country": "UK",
+    "Currency": "EUR",
+    "ISIN": "DE000A0D6554",
+    "previousClose": 16.07,
+    "previousCloseDate": "2025-03-07"
+  },
+  {
+    "Code": "NDX1",
+    "Exchange": "STU",
+    "Name": "NORDEX (NDX1.SG)",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE000A0D6554",
+    "previousClose": 15.62,
+    "previousCloseDate": "2025-03-07"
+  },
+  {
+    "Code": "NDX1",
+    "Exchange": "F",
+    "Name": "Nordex SE",
+    "Type": "Common Stock",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "DE000A0D6554",
+    "previousClose": 15.6,
+    "previousCloseDate": "2025-03-07"
+  }
+]

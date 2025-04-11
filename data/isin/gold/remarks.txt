@@ -1,0 +1,5 @@
+
+* ich habe diese datei nicht mit den normalen program erstellt sondern mit der main.go die hier im ordner liegt
+* https://metalpriceapi.com/
+* 100 anfragen pro tag, aber ich kann mehre api keys von der gleichen IP generieren
+

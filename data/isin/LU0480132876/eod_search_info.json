@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "UB32",
+    "Exchange": "LSE",
+    "Name": "UBS MSCI Emerging Markets UCITS",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBX",
+    "ISIN": "LU0480132876",
+    "previousClose": 8691,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "UIMI",
+    "Exchange": "XETRA",
+    "Name": "UBS (Lux) Fund Solutions - MSCI Emerging Markets UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU0480132876",
+    "previousClose": 103.22,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "UB30",
+    "Exchange": "LSE",
+    "Name": "UBS MSCI Emerging Markets UCITS",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "LU0480132876",
+    "previousClose": 108.51,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "UIMI",
+    "Exchange": "F",
+    "Name": "UBS (Lux) Fund Solutions - MSCI Emerging Markets UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU0480132876",
+    "previousClose": 102.805,
+    "previousCloseDate": "2025-01-24"
+  },
+  {
+    "Code": "EMMUSA",
+    "Exchange": "SW",
+    "Name": "UBS(Lux)Fund Solutions – MSCI Emerging Markets UCITS ETF(USD)A-dis CHF",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "CHF",
+    "ISIN": "LU0480132876",
+    "previousClose": 98.15,
+    "previousCloseDate": "2025-01-24"
+  }
+]

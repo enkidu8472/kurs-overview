@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ETF/Stock-API</title>
+
+  <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+  <link rel="stylesheet" href="styles-main.css">
+
+</head>
+
+<body>
+
+
+  <div class="container">
+
+    <div class="left-section">
+     
+      <button onclick="window.location.href='./download/download.html';" title="Get new and update stock data from the internet and store them in the app" >Download</button>
+      <button onclick="window.location.href='./log-TR-transaction/logTRT.html';" title="Safe Transaction Details from trade republic" >Log TR Transaction</button>
+      <button onclick="dowloadMostRecentDataFromSelectedIsins();" title="Use the download function on all selected items" >update selected</button>
+     
+      <select id="available-assets" multiple> </select>
+      <div class="buttons">
+        <button onclick="manageSelectionWindow('init')">Select</button>
+        <button id="add-button">Add</button>
+        <button id="remove-button">Remove</button>
+      </div>
+      <select id="selected-assets" multiple> </select>
+      <table style="border-collapse: collapse; width: 100%;">
+        <tr>
+          <td><label for="from-date">From:</label></td>
+          <td><input type="date" id="from-date" name="from-date"></td>
+          <td><button id="date-reset-button">Reset</button></td>
+        </tr>
+        <tr>
+          <td><label for="to-date">To:</label></td>
+          <td><input type="date" id="to-date" name="to-date"></td>
+          <td><button id="date-refresh-button">Refresh</button></td>
+        </tr>
+      </table>
+
+      <table id="time-modification-options" style="border-collapse: collapse; width: 100%;">
+        <tr>
+          <td>header</td>
+          <td>5y</td>
+          <td>1y</td>
+          <td>1m</td>
+          <td>7d</td>
+          <td>1d</td>
+        </tr>
+        <tr>
+          <td>last</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+        </tr>
+        <tr>
+          <td>shrink start</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+        </tr>
+        <tr>
+          <td>expand start</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+        </tr>
+        <tr>
+          <td>scroll left</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+        </tr>
+        <tr>
+          <td>scroll right</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+          <td>x</td>
+        </tr>
+      </table>
+
+    </div>
+
+    <div class="right-section">
+      <div style="display: flex;">
+        <div id="summaryDuration"></div>
+        <table id="summaryTable"></table>
+      </div>
+      <svg id="chart2" width="800" height="400"></svg>
+      <svg id="chart1" width="800" height="400"></svg><br>
+      <div id="tooltip" class="tooltip" style="display: none;"></div>
+    </div>
+
+  </div>
+
+  <div id="right_pannel">
+    <button onclick="f_close_pannel();">close</button>
+    <table id="overview_container"></table>
+  </div>
+
+  <div id="center_container">
+    <div id="scrollable_box">
+      <button onclick="manageSelectionWindow('confirm')">ok</button>
+      <button onclick="manageSelectionWindow('cancel')">cancel</button>
+      <button onclick="selectAllFromSelectWindow(true);">select all</button>
+      <button onclick="selectAllFromSelectWindow(false);">deselect all</button>
+      
+      <br><input type="text" id="input_filter_tag" placeholder="Tag Filter Value"><br>
+
+      <button onclick="filterSelectWindow();">filter</button>
+      <button onclick="alert('todo');">clear filter</button>
+      
+      <table id="selection_window_table"></table>
+    </div>
+  </div>
+
+  <script src="d3-v7-min.js"></script>
+  <script src="general.js"></script>
+  <script src="make-first-plot.js"></script>
+  <script src="handle-asset-selction.js"></script>
+  <script src="api-handling.js"></script>
+  <script src="./download/api-handle-dl.js"></script>
+  
+</body>
+
+
+</html>

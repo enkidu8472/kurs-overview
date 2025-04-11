@@ -1,0 +1,35 @@
+[
+  {
+    "Code": "XDAX",
+    "Exchange": "LSE",
+    "Name": "Xtrackers DAX UCITS ETF 1C",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBX",
+    "ISIN": "LU0274211480",
+    "previousClose": 18197,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "DBXD",
+    "Exchange": "XETRA",
+    "Name": "Xtrackers - DAX UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU0274211480",
+    "previousClose": 217.1,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "DBXD",
+    "Exchange": "F",
+    "Name": "Xtrackers - DAX UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU0274211480",
+    "previousClose": 214.75,
+    "previousCloseDate": "2025-03-04"
+  }
+]

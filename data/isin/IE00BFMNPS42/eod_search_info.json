@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "XZMU",
+    "Exchange": "LSE",
+    "Name": "Xtrackers (IE) Plc - Xtrackers MSCI USA ESG UCITS ETF 1C",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00BFMNPS42",
+    "previousClose": 66.155,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "XZMU",
+    "Exchange": "XETRA",
+    "Name": "Xtrackers MSCI USA ESG UCITS ETF 1C EUR",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BFMNPS42",
+    "previousClose": 63.12,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "XESU",
+    "Exchange": "LSE",
+    "Name": "Xtrackers MSCI USA ESG UCITS ETF 1C GBP",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBP",
+    "ISIN": "IE00BFMNPS42",
+    "previousClose": 52.42,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "XZMU",
+    "Exchange": "SW",
+    "Name": "Xtrackers MSCI USA ESG UCITS ETF 1C",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "USD",
+    "ISIN": "IE00BFMNPS42",
+    "previousClose": 59.48,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "XZMU",
+    "Exchange": "F",
+    "Name": "Xtrackers IE PLC - Xtrackers ESG MSCI USA UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BFMNPS42",
+    "previousClose": 63.52,
+    "previousCloseDate": "2024-12-12"
+  }
+]

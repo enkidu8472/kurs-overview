@@ -1,0 +1,35 @@
+[
+  {
+    "Code": "LGWU",
+    "Exchange": "XETRA",
+    "Name": "Amundi MSCI EMU Small Cap ESG CTB Net Zero Ambition UCITS ETF D EUR",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU1598689153",
+    "previousClose": 367.4,
+    "previousCloseDate": "2025-03-06"
+  },
+  {
+    "Code": "LGWU",
+    "Exchange": "F",
+    "Name": "Lyxor Index Fund - Lyxor MSCI EMU Small Cap (DR) UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "LU1598689153",
+    "previousClose": 361.6,
+    "previousCloseDate": "2025-03-05"
+  },
+  {
+    "Code": "MMS",
+    "Exchange": "LSE",
+    "Name": "Amundi MSCI EMU Small Cap ESG CTB Net Zero Ambition UCITS ETF D GBP",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBP",
+    "ISIN": "LU1598689153",
+    "previousClose": 284.2,
+    "previousCloseDate": "2025-03-05"
+  }
+]

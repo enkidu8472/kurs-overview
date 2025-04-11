@@ -1,0 +1,24 @@
+[
+  {
+    "Code": "EXUS",
+    "Exchange": "XETRA",
+    "Name": "Xtrackers MSCI World ex USA UCITS ETF 1C USD EUR",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE0006WW1TQ4",
+    "previousClose": 30.745,
+    "previousCloseDate": "2025-01-17"
+  },
+  {
+    "Code": "EXUS",
+    "Exchange": "LSE",
+    "Name": "Xtrackers MSCI World ex USA UCITS ETF 1C USD",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE0006WW1TQ4",
+    "previousClose": 31.63,
+    "previousCloseDate": "2025-01-17"
+  }
+]

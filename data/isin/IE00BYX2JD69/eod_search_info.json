@@ -1,0 +1,90 @@
+[
+  {
+    "Code": "2B7K",
+    "Exchange": "XETRA",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.196,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "SUSW",
+    "Exchange": "LSE",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.195,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "2B7K",
+    "Exchange": "F",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.096,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "SUSW",
+    "Exchange": "AS",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc) EUR",
+    "Type": "ETF",
+    "Country": "Netherlands",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.1926,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "SUSW",
+    "Exchange": "SW",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc) EUR",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.16,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "2B7K",
+    "Exchange": "DU",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.07,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "2B7K",
+    "Exchange": "MU",
+    "Name": "iShares MSCI World SRI UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.203,
+    "previousCloseDate": "2025-01-31"
+  },
+  {
+    "Code": "2B7K",
+    "Exchange": "BE",
+    "Name": "iShares MSCI World SRI UCITS ETF EUR (Acc)",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00BYX2JD69",
+    "previousClose": 12.102,
+    "previousCloseDate": "2025-01-31"
+  }
+]

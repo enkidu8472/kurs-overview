@@ -1,0 +1,90 @@
+[
+  {
+    "Code": "ISFF702",
+    "Exchange": "TA",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "Israel",
+    "Currency": "ILA",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 231440,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "CSP1",
+    "Exchange": "LSE",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBX",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 51582,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "CSPX",
+    "Exchange": "LSE",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 641.88,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "SXR8",
+    "Exchange": "XETRA",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 615.92,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "CSSPX",
+    "Exchange": "SW",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "USD",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 642.2,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "CSPX",
+    "Exchange": "AS",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc) EUR",
+    "Type": "ETF",
+    "Country": "Netherlands",
+    "Currency": "EUR",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 616.074,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "CSPXN",
+    "Exchange": "MX",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "Mexico",
+    "Currency": "MXN",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 13204.0596,
+    "previousCloseDate": "2025-01-29"
+  },
+  {
+    "Code": "SXR8",
+    "Exchange": "F",
+    "Name": "iShares Core S\u0026P 500 UCITS ETF USD (Acc)",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B5BMR087",
+    "previousClose": 614.4,
+    "previousCloseDate": "2025-01-29"
+  }
+]

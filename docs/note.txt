@@ -1,0 +1,46 @@
+
+// good online resource to get the gold price
+https://goldprice.org/gold-price-history.html
+
+// api i use to get the gold price
+https://metalpriceapi.com/dashboard
+
++ 100 calls per months
++ in free plan 6 days per call
++ i only can get historical data until 2011 for gold
+
+
+
+// chat GPT recomend this structre
+-> services, handlers, routes and models are common structres of a go web application
+
+kursoverview/
+│── go.mod                 # Module file
+│── go.sum                 # Lock file
+│── main.go                # Application entry point
+│── internal/              # Internal logic (handlers, services, routes, models, etc.)
+│   ├── handlers/          # HTTP handler functions
+│   │   ├── order.go       # Handles GET/PUT for orders
+│   │   ├── user.go        # Handles GET/PUT for users
+│   ├── services/          # Business logic and data fetching (e.g., DB interactions)
+│   │   ├── user-creation.go
+│   │   ├── user-management.go
+│   │   ├── order.go
+│   ├── routes/            # Routes and handler bindings
+│   │   ├── routes.go      # Define API routes
+│   ├── models/            # Data structures and models
+│   │   ├── user.go        # User data model
+│   │   ├── order.go       # Order data model
+│── docs/              
+│── views/
+│── data/  
+
+
+// other public API for stock data, that has a free plan
+-> Tiingo
+
+https://www.reddit.com/r/webdev/comments/151zk8y/is_there_any_free_stock_market_api_that_allows/
+
+    Hope this helps, but after reading through this I found this absolutely nerdy, ocd, awesome, amazing, beautiful human being :)
+    https://portfoliooptimizer.io/blog/selecting-a-stock-market-data-web-api-not-so-simple/
+    so in one TLDR word.... Tiingo

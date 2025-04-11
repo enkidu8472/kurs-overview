@@ -1,0 +1,68 @@
+[
+  {
+    "Code": "VWRL",
+    "Exchange": "LSE",
+    "Name": "Vanguard FTSE All-World UCITS",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "GBP",
+    "ISIN": "IE00B3RBWM25",
+    "previousClose": 111.89,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VGWL",
+    "Exchange": "XETRA",
+    "Name": "Vanguard FTSE All-World UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B3RBWM25",
+    "previousClose": 134.6,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VWRL",
+    "Exchange": "AS",
+    "Name": "Vanguard FTSE All-World UCITS ETF EUR",
+    "Type": "ETF",
+    "Country": "Netherlands",
+    "Currency": "EUR",
+    "ISIN": "IE00B3RBWM25",
+    "previousClose": 134.64,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VWRD",
+    "Exchange": "LSE",
+    "Name": "Vanguard FTSE All-World UCITS",
+    "Type": "ETF",
+    "Country": "UK",
+    "Currency": "USD",
+    "ISIN": "IE00B3RBWM25",
+    "previousClose": 141.25,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VWRL",
+    "Exchange": "SW",
+    "Name": "Vanguard FTSE All-World UCITS ETF CHF",
+    "Type": "ETF",
+    "Country": "Switzerland",
+    "Currency": "CHF",
+    "ISIN": "IE00B3RBWM25",
+    "previousClose": 126.04,
+    "previousCloseDate": "2024-12-13"
+  },
+  {
+    "Code": "VGWL",
+    "Exchange": "F",
+    "Name": "Vanguard FTSE All-World UCITS ETF",
+    "Type": "ETF",
+    "Country": "Germany",
+    "Currency": "EUR",
+    "ISIN": "IE00B3RBWM25",
+    "previousClose": 134.42,
+    "previousCloseDate": "2024-12-13"
+  }
+]
